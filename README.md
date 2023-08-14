@@ -1,1 +1,3 @@
-# reaxionpaints
+# ReaXionPaints.com
+
+## Paint of Gold.
